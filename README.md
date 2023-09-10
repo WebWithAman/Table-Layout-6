@@ -12,7 +12,7 @@ git clone https://github.com/webwithaman/complex-table-layout.git
 
 # Demo
 
-You can see a live demo of this table https://complextablelayout.netlify.app
+You can see a live demo of this table https://complextablelayoutbyaman.netlify.app
 
 ## Usage
 
